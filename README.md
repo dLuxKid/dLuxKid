@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on a doctor's marketplace<br>👯 I’m looking to collaborate on frontend and backend development projects<br>🌱 I’m currently learning about System Design and Golang<br>💬 Ask me about frontend web development<br>⚡ Fun fact I breathe different
 
-## Currently Learning
-[![roadmap.sh](https://roadmap.sh/card/tall/679f8b46d7c9b4cc8b3f144d?variant=dark&roadmaps=system-design%2Cfrontend)](https://roadmap.sh)
+## 📚 Currently Learning
+[![roadmap.sh](https://roadmap.sh/card/tall/679f8b46d7c9b4cc8b3f144d?variant=dark&roadmaps=system-design%2Cfrontend%2Cbackend%2Cgolang)](https://roadmap.sh)
 
 ## 🌐 Socials:
 
